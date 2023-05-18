@@ -1,2 +1,2 @@
-# MergulhoSpringRest
-Curso de imersão Spring/REST
+# Mergulho Spring Rest 🤿😀
+Curso de imersão Spring/REST da algaworks
