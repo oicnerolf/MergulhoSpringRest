@@ -37,5 +37,4 @@ public class Exemplo1 {
         //aqui utilizando method reference
         nomes.forEach(System.out::println);
     }
-
 }
